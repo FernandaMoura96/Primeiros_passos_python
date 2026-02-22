@@ -1,3 +1,4 @@
+README.md
 # Evolução em Python: Lógica e Aprendizado
 
 Este repositório é um registro da minha jornada de aprendizado na linguagem Python. Aqui, reúno os códigos desenvolvidos durante o curso do professor Gustavo Guanabara (Curso em Vídeo), que tem sido fundamental para o meu desenvolvimento em lógica de programação.
