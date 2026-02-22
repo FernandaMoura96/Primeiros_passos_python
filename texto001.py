@@ -1,0 +1,7 @@
+nome = str(input("Digite seu nome: ")).strip()
+carct = (len(nome))
+print("Analizando seu nome")
+print(f'Seu nome em maiúscula é: {nome.upper()}')
+print(f"Seu nome em minúscula é: {nome.lower()}")
+print(f"Seu nome tem {carct - nome.count(' ')} letras")
+print(f'Seu primeiro nome tem {nome.find(' ')} letras')
